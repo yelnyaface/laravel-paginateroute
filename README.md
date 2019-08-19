@@ -30,7 +30,7 @@ The best postcards will get published on the open source page on our website.
 Via Composer
 
 ``` bash
-$ composer require yelnyaface/laravel-paginateroute
+$ composer require spatie/laravel-paginateroute
 ```
 
 First register the service provider and facade in your application.
